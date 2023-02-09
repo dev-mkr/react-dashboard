@@ -5,6 +5,7 @@ module.exports = {
     extend: {
       backgroundColor: {
         primary: "rgb(var(--color-primary) / <alpha-value> )",
+        secondary: "rgb(var(--color-secondary) / <alpha-value> )",
       },
       textColor: {
         base: "rgb(var(--color-text-base) / <alpha-value> )",
